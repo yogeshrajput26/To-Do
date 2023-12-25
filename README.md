@@ -9,6 +9,6 @@ A branch in GitHub is a separate line of development that allows you to work on 
 + Open your Repository
 + Click on Setting
 + Scroll on Danger Zone
-+ Click 
++ Click Change Visibility
 
 # Make full website
