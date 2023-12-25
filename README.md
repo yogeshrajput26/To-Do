@@ -5,4 +5,10 @@ A repository in GitHub is like a folder for your project. It contains all the fi
 
 A branch in GitHub is a separate line of development that allows you to work on a feature or fix without affecting the main project. It helps in parallel development and experimentation before changes are merged into the main codebase.
 
+# How to change repository from Private to Public or Public to Private
++ Open your Repository
++ Click on Setting
++ Scroll on Danger Zone
++ Click 
+
 # Make full website
